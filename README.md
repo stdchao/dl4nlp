@@ -1,2 +1,2 @@
-# dl4nlp
-tf code for nlp dl models
+# 我的机器学习练习项目
+从算法实现到数据实战
